@@ -1,0 +1,15 @@
+{
+  "name": "vcli",
+  "version": "0.0.1",
+  "description": "CLI helpers",
+  "repository": "git@github.com:viniciusHagamenon/vcli.git",
+  "author": "Vinicius Hagamenon <vinicius_neo@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "vcli": "bin/vcli.js"
+  },
+  "dependencies": {
+    "commander": "^2.13.0",
+    "shelljs": "^0.8.1"
+  }
+}

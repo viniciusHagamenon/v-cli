@@ -1,2 +1,2 @@
-# v-cli
+# vcli
 CLI helpers
